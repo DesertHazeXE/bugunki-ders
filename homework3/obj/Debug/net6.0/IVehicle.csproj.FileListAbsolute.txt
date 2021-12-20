@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\IVehicle.exe
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\IVehicle.deps.json
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\IVehicle.runtimeconfig.json
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\IVehicle.dll
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\ref\IVehicle.dll
+C:\Users\ASUS\Desktop\practise\Extension\bin\Debug\net6.0\IVehicle.pdb
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.dll
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\ref\IVehicle.dll
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.pdb
+C:\Users\ASUS\Desktop\practise\Extension\obj\Debug\net6.0\IVehicle.genruntimeconfig.cache
